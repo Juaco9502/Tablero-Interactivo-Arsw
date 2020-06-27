@@ -1,4 +1,4 @@
-# HOMEWORK 4 ARSW (Picas & Famas Sprint)
+# HOMEWORK 5 ARSW (Interactive Board)
 
 The board should allow multiple users to draw online and provide a delete button. What each person draws should appear on the board of all other people. Each person should start with a different color. Immediately someone presses the clear board button is cleared for everyone.
 
@@ -41,7 +41,8 @@ http://localhost:8080/home.html
 ![Vista](img/img1.PNG)
 
 ## HEROKU
-[Link]()
+[Link](https://tablero-interactivo.herokuapp.com/home.html)
+https://tablero-interactivo.herokuapp.com/home.html
 
 ## PRE-REQUISITES
 
